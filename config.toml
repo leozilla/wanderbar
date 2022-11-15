@@ -1,4 +1,4 @@
-baseURL = "https://leozilla.github.io/wanderbar/public"
+baseURL = "https://leozilla.github.io/wanderbar"
 languageCode = "en-us"
 title = "wanderbar"
 theme = "ananke"
